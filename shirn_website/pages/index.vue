@@ -35,27 +35,27 @@ body {
 
 @font-face {
     font-family: 'shirn';
-    src: url("/shirn.otf")
+    src: url("/shirn_website_test/shirn.otf")
 }
 
 @font-face {
     font-family: 'dardanian';
-    src: url("/dardanian.ttf");
+    src: url("/shirn_website_test/dardanian.ttf");
 }
 
 @font-face {
     font-family: 'nirichaen';
-    src: url('/nirichaen.ttf');
+    src: url('/shirn_website_test/nirichaen.ttf');
 }
 
 @font-face {
     font-family: "tengwar";
-    src: url("/tngani.ttf");
+    src: url("/shirn_website_test/tngani.ttf");
 }
 
 @font-face {
-    font-family: "enganigri";
-    src: url("/Enganagri.ttf")
+    font-family: "/enganigri";
+    src: url("/shirn_website_test/Enganagri.ttf")
 }
 
 .shirn {
